@@ -1,0 +1,12 @@
+
+.Main_div_cart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart-img{
+    margin-top: 250px;
+    width: 150px;
+}

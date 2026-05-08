@@ -1,0 +1,33 @@
+
+.product_item_div{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+    margin-right: 50px;
+}
+
+.img_div{
+    border-radius: 12px;
+    width: 100%;
+    height: 70%;
+}
+
+.img{
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+}
+
+.product-detail{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+
+.price-rating{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

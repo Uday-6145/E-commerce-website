@@ -1,0 +1,21 @@
+.product_div{
+    padding: 30px;
+}
+
+.prduct-list-head{
+  font-size: 30px;
+}
+
+.products-list{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.loader_container{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 60vh;
+}
